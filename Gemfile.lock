@@ -1,0 +1,25 @@
+PATH
+  remote: .
+  specs:
+    laftel (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
+    mini_mime (1.1.5)
+    multi_xml (0.6.0)
+    rake (13.0.6)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  httparty
+  laftel!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.4.10

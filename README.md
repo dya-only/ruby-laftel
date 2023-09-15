@@ -3,3 +3,10 @@
 
 
 currently developing...
+
+simple example!
+```ruby
+require 'laftel'
+
+puts Laftel.search('코노스바')
+```
